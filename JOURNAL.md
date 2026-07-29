@@ -23,7 +23,28 @@ Test coverage is important, adding detection logic to check if a repo has test f
         [x] *I've located the relevant files and confirmed they exist in the codebase*
 
 3. Do I understand what "done" looks like?
-        [] *I can describe a concrete before-and-after: what the user sees before the fix and what they see after.*
+        [x] *I can describe a concrete before-and-after: what the user sees before the fix and what they see after.*
     
 4. Is the tier a realistic match for where I am right now?
     *This is my first open source contribution, therefore I am choosing tier-1 for starters*
+
+
+
+
+## Week 8 — Reproduction & solution planning
+
+**Reproduction commit link:** [link to commit documenting the reproduced issue]
+
+**Reproduction summary:**
+Setup the whole project in docker and ran the project using "make run" and it did not run the project as intended at first. Then had to troubleshoot for a bit and got it to run. There was no detection logic for the project to find test/ or tests/ folder.
+
+**PLAN.md link:** [link to PLAN.md in your fork]
+
+**Walkthrough video (recommended):** No video was recorded
+
+**Blockers or open questions:**
+The issue calls for two relevant files:
+agent/tools/github_tool.py
+agent/tools/repo_analyzer.py
+
+but the project only has the first one and not the repo_analyzer.py
