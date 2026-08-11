@@ -87,3 +87,38 @@ Relevant unit tests present and passing — documented in Check-in 2. The test s
 **Self-review confirmation:** [x] Code follows existing patterns  [x] Proper error handling included  [x] Integrates with existing tool structure
 
 **Draft PR feedback received from:** None yet - ready for community review
+
+
+
+
+
+## Week 10 — Iteration & reflection
+
+### Reviewer feedback
+
+**Feedback received:** [ ] Yes  [x] No — still awaiting review
+
+**Summary of feedback:**
+ No review came in.
+
+**How you responded:**
+
+
+---
+
+### Reflection
+
+**What was harder than you expected?**
+Organizing the tasks and planning was the hardest.
+
+**What did you learn about working in a large codebase?**
+Read, Read, Read. Knowing the code base and the whats and whys is very important.
+
+**How did AI tools help — and where did they fall short?**
+Helped me a lot while going through the codebase. But fell short when I have to prioritize things out.
+
+**What would you do differently if you started over?**
+Might pick a different/harder issue to work with.
+
+**What are you most proud of from this module?**
+Able to handle a big codebase.
